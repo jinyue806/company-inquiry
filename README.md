@@ -1,5 +1,7 @@
 # 企业信息查询站 — Company Inquiry
 
+> 🔗 **在线演示：https://jinyue806.github.io/company-inquiry/**
+
 企业官网静态展示站，用于产品展示、应用场景、解决方案介绍与客户咨询。
 
 ## 项目概览
