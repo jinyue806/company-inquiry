@@ -101,7 +101,7 @@ if (form && formNote) {
         formNote.textContent = "已打开邮箱客户端，请手动发送。";
         formNote.className = "form-note ok";
       } else {
-        formNote.textContent = "提交失败，请直接拨打电话 18006883777。";
+        formNote.textContent = "提交失败，请直接拨打电话 400-000-0000。";
         formNote.className = "form-note err";
       }
     } finally {
