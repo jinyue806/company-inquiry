@@ -6,6 +6,12 @@
 *.webp
 *.ico
 
+# 但 assets/ 里的图片资源要保留
+!assets/*.png
+!assets/*.jpg
+!assets/*.jpeg
+!assets/*.webp
+
 # 备份/临时文件
 *.bak
 *.bak-*
