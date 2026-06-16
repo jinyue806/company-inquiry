@@ -1,0 +1,22 @@
+# 截图
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.ico
+
+# 备份/临时文件
+*.bak
+*.bak-*
+*.backup-*
+*.tmp
+*.redesign-*
+*.before-*
+
+# 工具缓存
+.playwright-cli/
+
+# 系统
+Thumbs.db
+.DS_Store
